@@ -9,6 +9,7 @@ app_PYTHON = \
 	checkbranches.py \
 	checkmodulesets.py \
 	clean.py \
+	envinfo.py \
 	goalreport.py \
 	gui.py \
 	info.py \
